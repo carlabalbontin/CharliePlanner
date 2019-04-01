@@ -3,7 +3,7 @@ A ReactJs app with Firebase.
 
 You can check it out [here](https://planner-app-reactjs.firebaseapp.com).
 
-[](charlie-planner-devices.png)
+![](charlie-planner-devices.png)
 
 
 ## Description
